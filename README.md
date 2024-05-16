@@ -29,10 +29,10 @@
 
 ## Contato
 
- github: luan18alencar
+    github: luan18alencar
  
 # Imagens do projeto
 
-![imagem_do_projeto](img/projeto.png)
+    ![imagem_do_projeto](img/projeto.png)
 
 
