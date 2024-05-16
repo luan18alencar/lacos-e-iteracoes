@@ -25,8 +25,6 @@
 
     Este projeto é um exemplo simples e pode ser expandido com mais funcionalidades, como a exibição de uma lista dos tipos de música selecionados ou a reprodução de músicas de acordo com as escolhas do usuário.
     O código JavaScript pode ser adaptado para atender às suas necessidades específicas.
-
-    Tornar o código mais responsivo para se adaptar a diferentes tamanhos de tela.
     Este projeto é um ótimo ponto de partida para quem deseja aprender a criar interfaces interativas com HTML, CSS e JavaScript.
 
 ## Contato
